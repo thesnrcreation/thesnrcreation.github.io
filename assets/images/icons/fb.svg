@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="fb" transform="translate(-3)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(3)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="19" fill="none"/>
+    </g>
+    <g id="facebook-logo" transform="translate(-6.046 8.64)">
+      <path id="Path_300" data-name="Path 300" d="M34.316,0,31.266,0a5.289,5.289,0,0,0-5.642,5.647v2.6H22.557a.474.474,0,0,0-.48.468v3.772a.474.474,0,0,0,.48.468h3.067v9.519a.474.474,0,0,0,.48.468h4a.474.474,0,0,0,.48-.468V12.959h3.586a.474.474,0,0,0,.48-.468V8.719a.463.463,0,0,0-.14-.331.486.486,0,0,0-.339-.137H30.585V6.044c0-1.061.259-1.6,1.676-1.6h2.055a.474.474,0,0,0,.479-.468V.473A.474.474,0,0,0,34.316,0Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
