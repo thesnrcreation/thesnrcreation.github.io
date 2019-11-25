@@ -4,8 +4,15 @@
     padding-top: 100px;
 }
 
-.photos-porfolio-banner.lg.bg-parallax-main {
+.photos-porfolio-banner.osaka-banner.lg.bg-parallax-main {
     background: url(./../assets/images/photos/travel/travel.jpg) 0% 0% / cover;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+}
+
+.photos-porfolio-banner.wed-jymt-banner.lg.bg-parallax-main {
+    background: url(./../assets/images/photos/wedding/jymt-jan/full/jymt_01.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
