@@ -185,7 +185,7 @@ $(window).on('load', function () {
 });
 
 //Magnific Pop Up
-$('.gallery').each(function () { // the containers for all your galleries
+$('.gallery').each(function () {
     $(this).magnificPopup({
         delegate: 'a', // the selector for gallery item
         type: 'image',
