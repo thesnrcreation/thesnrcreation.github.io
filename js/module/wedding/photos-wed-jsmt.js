@@ -4,15 +4,15 @@ $(document).ready(function () {
 });
 
 function renderImgGallery() {
-    // console.log($("#portfolio-container").html(imgGallery(porfolio_photo)));
-    $("#portfolio-container").html(imgGallery(porfolio_photo));
+    // console.log($("#portfolio-container").html(imgGallery(portfolio_photo)));
+    $("#portfolio-container").html(imgGallery(portfolio_photo));
 }
 
-function imgGallery(porfolio_photo) {
+function imgGallery(portfolio_photo) {
     var htmlGallery = "";
     var galleryData;
-    for (var i = 0, n = porfolio_photo.galleryObj.length; i < n; i++) {
-        galleryData = porfolio_photo.galleryObj[i];
+    for (var i = 0, n = portfolio_photo.galleryObj.length; i < n; i++) {
+        galleryData = portfolio_photo.galleryObj[i];
         if (galleryData) {
             htmlGallery += '<div class="portfolio-item ' + galleryData.colSize + '">' +
                 '<a href="' + galleryData.fullsize_pic + '">' +
@@ -33,7 +33,7 @@ function imgGallery(porfolio_photo) {
 
 // Sample Json Portfolio Photo Gallery
 
-var porfolio_photo = {
+var portfolio_photo = {
     "galleryObj": [{
         "colSize": "col-md",
         "fullsize_pic": "assets/images/photos/wedding/jymt-jan/portfolio/jymt-01.jpg",
