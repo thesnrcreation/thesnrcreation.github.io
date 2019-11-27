@@ -11,15 +11,22 @@
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
+.photos-portfolio-banner.wed-jhaz-banner.lg.bg-parallax-main {
+    background: url(./../assets/images/photos/wedding/jhaz-aug-2018/full/jhaz_bg.jpg) 0% 0% / cover;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+}
+
 .photos-portfolio-banner.wed-jymt-banner.lg.bg-parallax-main {
-    background: url(./../assets/images/photos/wedding/jymt-jan/full/jymt_01.jpg) 0% 0% / cover;
+    background: url(./../assets/images/photos/wedding/jymt-jan-2019/full/jymt_bg.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .photos-portfolio-banner.spc-ekocheras-banner.lg.bg-parallax-main {
-    background: url(./../assets/images/photos/spaces/ekocheras/full/eko-cheras-full.jpg) 0% 0% / cover;
+    background: url(./../assets/images/photos/spaces/ekocheras-2019/full/ekocheras-bg.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
