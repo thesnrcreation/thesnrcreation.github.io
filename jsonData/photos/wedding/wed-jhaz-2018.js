@@ -149,55 +149,5 @@ var portfolio_photo = {
         "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-31.jpg",
         "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-31.jpg",
         "alt_pic": "Actual Wedding - Jaha & Azweina 31"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-32.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-32.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 32"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-33.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-33.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 33"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-34.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-34.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 34"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-35.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-35.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 35"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-36.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-36.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 36"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-37.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-37.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 37"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-38.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-38.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 38"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-39.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-39.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 39"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-40.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-40.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 40"
-    }, {
-        "colSize": "col-md",
-        "fullsize_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-41.jpg",
-        "normal_pic": "assets/images/photos/wedding/jhaz-aug-2018/portfolio/jhaz-41.jpg",
-        "alt_pic": "Actual Wedding - Jaha & Azweina 41"
     }]
 }
