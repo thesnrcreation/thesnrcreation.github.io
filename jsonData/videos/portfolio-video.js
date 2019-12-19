@@ -1,12 +1,24 @@
 var portfolio_video = {
     "galleryObj": [{
+        "video": "https://www.youtube.com/embed/-mP8Epf1T4I?autoplay=1",
+        "thumbnail": "assets/images/photos/thumbnail/langtengah-thumbnail.jpg",
+        "desc": "THINGS that I picked up at Lang Tengah Island"
+    }, {
         "video": "https://www.youtube.com/embed/fjzkm2l1g1s?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/jymt-thumbnail.png",
         "desc": "Jin Yong & Mui Ting - Pre-Wedding Slideshow"
     }, {
         "video": " https://www.youtube.com/embed/nW7H7VjuB3g?autoplay=1",
-        "thumbnail": "assets/images/photos/thumbnail/empower-women.png",
+        "thumbnail": "assets/images/photos/thumbnail/empower-women-thumbnail.png",
         "desc": "Empower Women Beauty - Interview"
+    }, {
+        "video": " https://www.youtube.com/embed/j6pa8iI1jiI?autoplay=1",
+        "thumbnail": "assets/images/photos/thumbnail/trx-thumbnail.jpg",
+        "desc": "City Explore"
+    }, {
+        "video": " https://www.youtube.com/embed/BciAx0g2qdo?autoplay=1",
+        "thumbnail": "assets/images/photos/thumbnail/empro-thumbnail.jpg",
+        "desc": "Empro - Commercial"
     }, {
         "video": "https://www.youtube.com/embed/1d-Jf11IfG8?autoplay=1",
         "thumbnail": "http://i2.wp.com/www.cgmeetup.net/home/wp-content/uploads/2015/05/Avengers-Age-of-Ultron-UI-Reel-1.jpg",
