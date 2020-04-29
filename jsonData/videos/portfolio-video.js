@@ -26,7 +26,7 @@ var portfolio_video = {
     }, {
         "video": "https://www.youtube.com/embed/iJAxUBs3qqw",
         "thumbnail": "assets/images/photos/thumbnail/ivin.jpg",
-        "desc": "Portrait - Ivin"
+        "desc": "Portrait - Ivin "
     }, {
         "video": "https://www.youtube.com/embed/fjzkm2l1g1s?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/jymt-thumbnail.png",
