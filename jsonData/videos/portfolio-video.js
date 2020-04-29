@@ -24,7 +24,7 @@ var portfolio_video = {
         "thumbnail": "assets/images/photos/thumbnail/marina-island.png",
         "desc": "MARINA ISLAND | Theme park - Commercial"
     }, {
-        "video": "https://www.youtube.com/embed/iJAxUBs3qqw",
+        "video": "https://www.youtube.com/embed/iJAxUBs3qqw?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/ivin.jpg",
         "desc": "Portrait - Ivin "
     }, {
