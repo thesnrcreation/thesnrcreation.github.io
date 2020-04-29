@@ -42,15 +42,15 @@ fetch("./assets/component/side-menu.html").then(
 );
 
 // Load Footer
-fetch("./assets/component/footer.html").then(
-    response => {
-        return response.text()
-    }).then(
-    data => {
-        document.querySelector("sr-footer").innerHTML = data;
-    }).catch(
-    error => console.log('error is', error)
-);
+// fetch("./assets/component/footer.html").then(
+//     response => {
+//         return response.text()
+//     }).then(
+//     data => {
+//         document.querySelector("sr-footer").innerHTML = data;
+//     }).catch(
+//     error => console.log('error is', error)
+// );
 
 //  ----- Load Component Ends -------//
 
