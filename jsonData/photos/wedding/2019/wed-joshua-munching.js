@@ -181,8 +181,8 @@ var portfolio_photo = {
         "alt_pic": "Actual Wedding - Joshua & Mun Ching 36"
     }, {
         "colSize": "col-12",
-        "fullsize_pic": "assets/images/photos/wedding/jymt-jan-2019/portfolio/jymt-37.jpg",
-        "normal_pic": "assets/images/photos/wedding/jymt-jan-2019/portfolio/jymt-37.jpg",
+        "fullsize_pic": "assets/images/photos/wedding/2019/nov/joshua-munching/portfolio/jsmc-37.jpg",
+        "normal_pic": "assets/images/photos/wedding/2019/nov/joshua-munching/portfolio/jsmc-37.jpg",
         "alt_pic": "Actual Wedding - Joshua & Mun Ching 37"
     }, {
         "colSize": "col-12",
