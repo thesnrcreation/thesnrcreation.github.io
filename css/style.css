@@ -294,8 +294,8 @@ h6 {
      2. Custom Style 
 -------------------------------------------------------------*/
 #about-us {
-    width: 100%;
-    padding: 100px 0px 50px 0px;
+    /* width: 100%; */
+    /* padding: 100px 0px 50px 0px; */
 }
 
 .section-header {
