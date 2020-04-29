@@ -542,7 +542,7 @@ h6 {
     min-height: 100%;
     padding: 66px 62px 121px;
     /* background-color: #111; */
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.75);
     overflow: hidden;
     visibility: hidden;
     z-index: 9999;
@@ -1462,7 +1462,7 @@ a.button.dark:hover {
 }
 
 .portfolio-item:hover img {
-    transform: scale(1.05);
+    transform: scale(1.02);
 }
 
 .portfolio-overlay .portfolio-text-content {
