@@ -49,3 +49,10 @@
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
+/* Commercial */
+.cm-puma-training-banner.bg-parallax-main {
+    background: url(./../assets/images/photos/commercial/2019/aug/puma-training/banner/puma-bg.jpg) 0% 0% / cover;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+}
