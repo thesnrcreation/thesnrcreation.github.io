@@ -32,7 +32,7 @@ var portfolio_photo = {
     }, {
         "colSize": "col-4",
         "fullsize_pic": "assets/images/photos/travel/2019/feb/melacca/portfolio/m-7.png",
-        "normal_pic": "assets/images/photos/travel/2019/feb/melacca/portfolio/m-7.png",
+        "normal_pic": "assets/images/photos/travel/2019/feb/melacca/portfolio/m-7.jpg",
         "alt_pic": "Melacca 07"
     }, {
         "colSize": "col-4",
@@ -101,8 +101,8 @@ var portfolio_photo = {
         "alt_pic": "Melacca 20"
     },{
         "colSize": "col-4",
-        "fullsize_pic": "assets/images/photos/travel/2019/feb/melacca/portfolio/m-21.png",
-        "normal_pic": "assets/images/photos/travel/2019/feb/melacca/portfolio/m-21.png",
+        "fullsize_pic": "assets/images/photos/travel/2019/feb/melacca/portfolio/m-21.jpg",
+        "normal_pic": "assets/images/photos/travel/2019/feb/melacca/portfolio/m-21.jpg",
         "alt_pic": "Melacca 21"
     },{
         "colSize": "col-4",
