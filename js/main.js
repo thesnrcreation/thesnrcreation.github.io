@@ -3,6 +3,7 @@ $(document).ready(function () {
     BodyFadeIn();
     BackToTop();
 });
+
 //  ----- Load Component  -------//
 
 function BodyFadeIn() {

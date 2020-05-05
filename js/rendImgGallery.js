@@ -4,7 +4,7 @@ $(document).ready(function () {
 });
 
 function renderImgGallery() {
-    $("#portfolio-container").html(imgGallery(portfolio_photo));
+    $("#portfolio-pic-content").html(imgGallery(portfolio_photo));
 }
 
 function imgGallery(portfolio_photo) {
