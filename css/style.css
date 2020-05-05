@@ -645,7 +645,7 @@ body {
 
 h1 {
     /* font-size: 34px; */
-    font-family: "Barlow Semi Condensed",sans-serif;
+    font-family: "Barlow Semi Condensed", sans-serif;
     font-size: 2.5rem;
 }
 
@@ -713,7 +713,7 @@ footer p {
 }
 
 .portfolio-header-txt-label {
-    font-family: "Futura",sans-serif;
+    font-family: "Futura", sans-serif;
     margin-bottom: 10px;
 }
 
@@ -1454,11 +1454,12 @@ a.button.dark:hover {
     overflow: hidden;
     position: relative;
     width: 100%;
+    text-align: center;
 }
 
 .portfolio-item img {
     transition: all 3s;
-    width: 100%;
+    width: auto;
 }
 
 .portfolio-item:hover img {

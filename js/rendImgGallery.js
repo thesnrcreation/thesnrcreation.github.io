@@ -15,10 +15,8 @@ function imgGallery(portfolio_photo) {
         if (galleryData) {
             htmlGallery += '<div class="portfolio-item ' + galleryData.colSize + '">' +
                 '<a href="' + galleryData.fullsize_pic + '">' +
-                '<div class="portfolio-content">' +
                 '<div class="portfolio-img-content">' +
                 '<img src="' + galleryData.normal_pic + '" alt="' + galleryData.alt_pic + '">' +
-                '</div>' +
                 '</div>' +
                 '</a>' +
                 '</div>';
