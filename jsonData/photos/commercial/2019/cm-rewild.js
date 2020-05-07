@@ -35,17 +35,17 @@ var portfolio_photo = {
         "normal_pic": "assets/images/photos/commercial/2019/march/rewild/portfolio/rewild-8.jpg",
         "alt_pic": "Rewild - Reusable Straw 08"
     }, {
-        "colSize": "col-4",
+        "colSize": "col-12 col-md-4",
         "fullsize_pic": "assets/images/photos/commercial/2019/march/rewild/portfolio/rewild-9.jpg",
         "normal_pic": "assets/images/photos/commercial/2019/march/rewild/portfolio/rewild-9.jpg",
         "alt_pic": "Rewild - Reusable Straw 09"
     }, {
-        "colSize": "col-4",
+        "colSize": "col-12 col-md-4",
         "fullsize_pic": "assets/images/photos/commercial/2019/march/rewild/portfolio/rewild-10.jpg",
         "normal_pic": "assets/images/photos/commercial/2019/march/rewild/portfolio/rewild-10.jpg",
         "alt_pic": "Rewild - Reusable Straw 10"
     }, {
-        "colSize": "col-4",
+        "colSize": "col-12 col-md-4",
         "fullsize_pic": "assets/images/photos/commercial/2019/march/rewild/portfolio/rewild-11.jpg",
         "normal_pic": "assets/images/photos/commercial/2019/march/rewild/portfolio/rewild-11.jpg",
         "alt_pic": "Rewild - Reusable Straw 11"
