@@ -5,14 +5,14 @@
     <!-- Metas -->
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="" />
 
     <!-- Links -->
     <link rel="icon" type="image/png" href="assets/images/icons/snr-favicon.png" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:400,700,800">
+    <link rel="stylesheet" type="text/css"
+        href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:400,700,800">
     <link rel="stylesheet" href="css/plugins.css" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/photos-portfolio.css" />
@@ -20,6 +20,7 @@
     <!-- Title -->
     <title>S&R Creation</title>
 </head>
+
 
 <body>
     <!-- Contact Side Menu -->
@@ -32,47 +33,47 @@
         <sr-nav-header></sr-nav-header>
         <!-- Header Ends -->
 
-        <!-- Photos Portfolio Section  -->
-        <section class="photos-portfolio-section mar-top-100">
+        <!-- Header Banner Section  -->
+        <div id="banner" class="photos-portfolio-banner cm-horizon-banner shadow lg bg-parallax-main">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12 text-center mar-top-60">
-                        <div class="section-header uppercase">
-                            <h1 class="font-weight-bold">Architecture & Interior</h1>
-                            <div class="heading-line"></div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-12 pt-3">
-                        <div class="portfolio-wrap">
-                            <div class="portfolio-container portfolio-overlay dark text-overlay row">
-                                <div class="portfolio-item col-md-4">
-                                    <a href="photos-spc-ekocheras-2019.html">
-                                        <div class="portfolio-content">
-                                            <div class="portfolio-img-content">
-                                                <img src="assets/images/photos/spaces/2019/ekocheras/eko-cheras.jpg" alt="Eko Cheras Porperty">
-                                            </div>
-                                            <div class="portfolio-text-content text-center">
-                                                <div class="portfolio-text uppercase">
-                                                    <h3>Eko Cheras</h3>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <div class="pt-1">
-                                        <span class="portfolio-date-txt-label">Interior &nbsp; • &nbsp; Sep 2019</span>
-                                        <h5 class="pt-2 portfolio-header-txt-label uppercase">Eko Cheras</h5>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="col-sm-12">
+                        <div class="page-title white-text">
+                            <!-- Banner text -->
+                            <!-- <h1>I blend <strong>Design & Functionality</strong><br>to create something awsome, check my
+                                work below.</h1> -->
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+        <!-- Hero Banner Section Ends -->
+
+        <!-- Portfolio Section -->
+        <section class="portfolio-section mar-top-60 mar-bot-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="portfolio-title-content">
+                            <div class="section-header uppercase text-left">
+                                <h1 class="font-weight-bold">Puma Football Training Kit</h1>
+                                <div class="heading-line-left"></div>
+                            </div>
+                            <div class="text-content">
+                                <p class="font-weight-normal" style="font-size: 16px;">
+                                    Commercial • Aug 2019</p>
+                            </div>
+                        </div>
+                        <!-- Portfolio Items -->
+                        <div id="portfolio-pic-content"
+                            class="gallery portfolio-container portfolio-overlay dark text-overlay row isotope">
+                        </div>
+                        <!-- Portfolio Items Ends -->
+                    </div>
+                </div>
+            </div>
         </section>
-        <!-- Photos Portfolio Section Ends -->
+        <!-- Portfolio Section Ends -->
 
         <!-- <hr class="divider mar-top-60"> -->
 
@@ -115,6 +116,8 @@
     <!-- Scripts -->
     <script src="js/vendor/plugins.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/rendImgGallery.js"></script>
+    <script src="jsonData/photos/commercial/2018/cm-horizon-handbag.js"></script>
     <!-- Scripts Ends -->
 </body>
 
