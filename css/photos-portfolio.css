@@ -119,6 +119,13 @@
     background: url(../assets/images/photos/portrait/2018/dec/sokying-dress/banner/sokying-dress-banner.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;
+    box-shadow: 0 3px 5px #393f484d;
+}
+
+.portrait-ivin-banner.bg-parallax-main { 
+    background: url(../assets/images/photos/portrait/2019/june/ivin/banner/ivin-banner.jpg) 0% 0% / cover;
+    background-position: center;
+    background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
