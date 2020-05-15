@@ -2181,7 +2181,7 @@ a.button.dark:hover {
 
 #footer {
     /* border-top: 1px solid #eee; */
-    margin-top: 60px;
+    /* margin-top: 60px; */
     padding: 40px 0;
 }
 
@@ -2222,20 +2222,25 @@ a.button.dark:hover {
     font-size: 18px;
 }
 
-.scrolltotop {
-    border: 2px solid #a9a9a9;
-    border-radius: 50%;
-    bottom: 40px;
-    color: #a9a9a9;
-    cursor: pointer;
-    display: none;
-    font-size: 18px;
-    height: 30px;
+.back-to-top {
+    clear: both;
+    display: block;
+    padding-bottom: 80px;
+    padding-top: 80px;
     text-align: center;
-    position: fixed;
-    right: 50px;
-    width: 30px;
-    z-index: 999;
+}
+
+.back-to-top a{
+    cursor: pointer;
+    color: #999;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.back-to-top .arrow {
+    margin-right: 10px;
 }
 
 /*-----------------------------------------------------------
