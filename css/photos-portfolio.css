@@ -11,11 +11,26 @@
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
+
+.bg-aboutus-sam {
+    background: url(./../assets/images/photos/about-us/sam.jpg) center center no-repeat;
+    background-size: cover;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+    height: 100vh;
+}
+
+.bg-aboutus-roy {
+    background: url(./../assets/images/photos/about-us/roy.jpg) center center no-repeat;
+    background-size: cover;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+    height: 100vh;
+}
+
 /* Pre/Actual Wedding */
 .wed-jhaz-banner.bg-parallax-main {
     background: url(./../assets/images/photos/wedding/2018/aug/jaha-azweina/full/jhaz_bg.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    /* background-position: center; */
+    /* background-attachment: fixed; */
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
@@ -115,42 +130,42 @@
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
-.portrait-sokying-dress-banner.bg-parallax-main { 
+.portrait-sokying-dress-banner.bg-parallax-main {
     background: url(../assets/images/photos/portrait/2018/dec/sokying-dress/banner/sokying-dress-banner.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;
     box-shadow: 0 3px 5px #393f484d;
 }
 
-.portrait-ivin-banner.bg-parallax-main { 
+.portrait-ivin-banner.bg-parallax-main {
     background: url(../assets/images/photos/portrait/2019/june/ivin/banner/ivin-banner.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
-.portrait-unclechau-banner.bg-parallax-main { 
+.portrait-unclechau-banner.bg-parallax-main {
     background: url(../assets/images/photos/portrait/2018/jan/lcchau/banner/unclechau-banner.jpg) 0% 0% / cover;
     background-position: top;
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
-.portrait-fyona-ivin-banner.bg-parallax-main { 
+.portrait-fyona-ivin-banner.bg-parallax-main {
     background: url(../assets/images/photos/portrait/2019/sep/ivin-fyona/banner/ivin-fyona-banner.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
-.portrait-eiona-banner.bg-parallax-main { 
+.portrait-eiona-banner.bg-parallax-main {
     background: url(../assets/images/photos/portrait/2019/june/eiona/banner/eiona-banner.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
-.portrait-viey-banner.bg-parallax-main { 
+.portrait-viey-banner.bg-parallax-main {
     background: url(../assets/images/photos/portrait/2019/march/viey/banner/view-banner.jpg) 0% 0% / cover;
     background-position: center;
     background-attachment: fixed;

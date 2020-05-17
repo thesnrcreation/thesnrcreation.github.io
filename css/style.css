@@ -2171,6 +2171,59 @@ a.button.dark:hover {
     margin: 5px 10px;
 }
 
+/*-----------------------------------------------------------
+    12. About-us 
+-------------------------------------------------------------*/
+
+.about-us {
+    height: 100vh;
+}
+
+.about-us-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-us-container .info {
+    display: inline-block;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about-us-container .description {
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: #3b3b3b;
+}
+
+.social-media-container {
+    font-size: 16px;
+}
+
+.social-media-content {
+    display: inline-block;
+    margin-bottom: -10px;
+    transition: 0.3s;
+}
+
+.social-media-link {
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 28px;
+}
+
+.facebook-icon {
+    fill: white;
+}
+
+.social-media-link a:hover svg {
+    fill: #7c7a7a;
+}
+
+
 
 /*-----------------------------------------------------------
     12. Footer 
@@ -2230,7 +2283,7 @@ a.button.dark:hover {
     text-align: center;
 }
 
-.back-to-top a{
+.back-to-top a {
     cursor: pointer;
     color: #999;
     font-size: 18px;
