@@ -2223,6 +2223,20 @@ a.button.dark:hover {
     fill: #7c7a7a;
 }
 
+@media (max-width: 992px) {
+    .about-us-container .info {
+        width: unset;
+    }
+
+    .info h1{
+        font-size: 1.8rem;
+    }
+
+    .description p {
+        font-size: 0.7rem;
+    }
+}
+
 
 
 /*-----------------------------------------------------------
