@@ -186,7 +186,7 @@ $(window).on('load', function () {
 });
 
 //Magnific Pop Up
-$('.gallery').each(function () {
+$('#portfolio-pic-content.gallery').each(function () {
     $(this).magnificPopup({
         delegate: 'a', // the selector for gallery item
         type: 'image',
