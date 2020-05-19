@@ -2223,7 +2223,7 @@ a.button.dark:hover {
 }
 
 .visitorcounter {
-    text-align: center;
+    text-align: right;
     display: none;
 }
 
