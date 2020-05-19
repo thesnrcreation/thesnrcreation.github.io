@@ -2222,8 +2222,13 @@ a.button.dark:hover {
     fill: #7c7a7a;
 }
 
+.visitorcounter {
+    text-align: center;
+    display: none;
+}
+
 @media (max-width: 992px) {
-    .info h1{
+    .info h1 {
         font-size: 1.8rem;
     }
 
