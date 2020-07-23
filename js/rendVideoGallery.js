@@ -13,7 +13,7 @@ function videoGallery(portfolio_video) {
     for (var i = 0, n = portfolio_video.galleryObj.length; i < n; i++) {
         galleryData = portfolio_video.galleryObj[i];
         if (galleryData) {
-            htmlGallery += '<div class="portfolio-item col-12 col-md-4">' +
+            htmlGallery += '<div class="portfolio-item col-12 col-md-4 ' + galleryData.ctg + '">' +
                 '<div class="embed-responsive embed-responsive-16by9 js-videoWrapper mb-2">' +
                 '<iframe class="embed-responsive-item js-videoIframe" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" data-src="' + galleryData.video + '" allowfullscreen></iframe>' +
                 '<div class="videoPoster js-videoPoster" style="background-image:url(' + galleryData.thumbnail + ');">' +

@@ -183,6 +183,22 @@ $(window).on('load', function () {
             filter: filterValue
         });
     });
+
+    var $videoContainer = $('#portfolio-video-container');
+    $videoContainer.isotope({
+        masonry: {
+            columnWidth: '.portfolio-item'
+        },
+        itemSelector: '.portfolio-item'
+    });
+    $('#filtersVideo').on('click', 'li', function () {
+        $('#filtersVideo li').removeClass('active');
+        $(this).addClass('active');
+        var filterVideoValue = $(this).attr('data-filter');
+        $videoContainer.isotope({
+            filter: filterVideoValue
+        });
+    });
 });
 
 //Magnific Pop Up

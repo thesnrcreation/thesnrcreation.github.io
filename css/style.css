@@ -1444,6 +1444,26 @@ a.button.dark:hover {
     margin-left: 0;
 }
 
+#filtersVideo li {
+    /* font-size: 14px; */
+    font-family: 'Muli', sans-serif;
+    font-weight: 400;
+    display: inline-block;
+    margin-left: 15px;
+    padding: 2px 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#filtersVideo li.active,
+#filtersVideo li:hover {
+    color: #2c2c2c;
+}
+
+#filtersVideo li:first-child {
+    margin-left: 0;
+}
+
 .portfolio-item {
     margin-top: 20px;
 }
