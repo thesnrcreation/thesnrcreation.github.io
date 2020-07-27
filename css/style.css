@@ -1023,7 +1023,7 @@ a.button.dark:hover {
 }
 
 .main-banner.lg.bg-parallax-main {
-    background: url(./../assets/images/bg/snr.png) 0% 0% / cover;
+    background: url(./../assets/images/bg/samroy.png) 0% 0% / cover;
     /* background-position: center; */
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
@@ -1031,7 +1031,7 @@ a.button.dark:hover {
 
 @media screen and (max-width: 768px) {
     .main-banner.lg.bg-parallax-main {
-        background: url(./../assets/images/bg/snr.png) center top no-repeat fixed;
+        background: url(./../assets/images/bg/samroy.png) center top no-repeat fixed;
         background-attachment: scroll;
         background-size: cover;
         width: 100%;
