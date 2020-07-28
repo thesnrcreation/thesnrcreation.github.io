@@ -2190,12 +2190,13 @@ a.button.dark:hover {
     margin: 5px 10px;
 }
 
+
 /*-----------------------------------------------------------
     12. About-us 
 -------------------------------------------------------------*/
 
 .about-us {
-    height: 100vh;
+    height: 100%;
 }
 
 .about-us-container {
@@ -2252,7 +2253,28 @@ a.button.dark:hover {
     }
 
     .description p {
-        font-size: 0.7rem;
+        font-size: 0.9rem;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .order-md-2 {
+        -ms-flex-order: 2;
+        order: 2;
+    }
+
+    .order-md-1 {
+        -ms-flex-order: 1;
+        order: 1;
+    }
+
+    .bg-aboutus-sam {
+        height: 450px !important;
+    }
+
+    .bg-aboutus-roy {
+        height: 450px !important;
     }
 }
 
