@@ -20,7 +20,7 @@ var portfolio_video = {
         "thumbnail": "assets/images/photos/thumbnail/empower-women-thumbnail.png",
         "desc": "Empower Women Beauty"
     }, {
-        "ctg": "commercial",
+        "ctg": "commercial travel",
         "video": "https://www.youtube.com/embed/-mP8Epf1T4I?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/langtengah-thumbnail.jpg",
         "desc": "Plastic Awareness"
