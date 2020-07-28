@@ -16,14 +16,16 @@
     background: url(./../assets/images/photos/about-us/sam.jpg) center center no-repeat;
     background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
-    height: 650px;
+    height: 100vh;
+    /* height: 650px; */
+
 }
 
 .bg-aboutus-roy {
     background: url(./../assets/images/photos/about-us/roy.jpg) center center no-repeat;
     background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
-    height: 650px;
+    height: 100vh;
 }
 
 /* Pre/Actual Wedding */
