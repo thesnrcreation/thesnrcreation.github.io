@@ -59,8 +59,8 @@
 }
 
 /* Travel */
-.travel-melacca-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/travel/2019/feb/melacca/banner/melacca-bg.jpg) 0% 0% / cover;
+.travel-malacca-banner.bg-parallax-main {
+    background: url(./../assets/images/photos/travel/2019/feb/malacca/banner/malacca-bg.jpg) 0% 0% / cover;
     background-position: bottom;
     background-attachment: fixed;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);

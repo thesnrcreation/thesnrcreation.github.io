@@ -1,5 +1,5 @@
-$(document).ready(function () {
-    "use strict";
+document.addEventListener("DOMContentLoaded", function(){
+    // "use strict";
     renderVideoGallery();
 });
 

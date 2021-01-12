@@ -1465,7 +1465,7 @@ a.button.dark:hover {
 }
 
 .portfolio-item {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .portfolio-img-content,
@@ -1478,7 +1478,8 @@ a.button.dark:hover {
 
 .portfolio-item img {
     transition: all 3s;
-    width: auto;
+    width: 100%;
+    /* width: auto; */
 }
 
 .portfolio-item:hover img {

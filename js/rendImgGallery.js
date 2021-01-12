@@ -1,4 +1,4 @@
-$(document).ready(function () {
+document.addEventListener("DOMContentLoaded", function(){
     "use strict";
     renderImgGallery();
 });
@@ -25,4 +25,4 @@ function imgGallery(portfolio_photo) {
         }
     }
     return htmlGallery;
-}
+}``
