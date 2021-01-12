@@ -1,5 +1,5 @@
 .photos-portfolio-banner.lg {
-    height: 680px;
+    /* height: 680px; */
     overflow: hidden;
     padding-top: 100px;
 }
@@ -38,90 +38,114 @@
 }
 
 .wed-shyk-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/wedding/2018/dec/shenhwa-yokeking/full/shyk_bg.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/wedding/2018/dec/shenhwa-yokeking/full/shyk_bg.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .wed-jymt-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/wedding/2019/jan/jinyong-muiting/full/jymt_bg.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/wedding/2019/jan/jinyong-muiting/full/jymt_bg.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .wed-jsmc-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/wedding/2019/nov/joshua-munching/full/jsmc_bg.jpg) 0% 0% / cover;
-    background-position: bottom;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/wedding/2019/nov/joshua-munching/full/jsmc_bg.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 /* Travel */
 .travel-malacca-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/travel/2019/feb/malacca/banner/malacca-bg.jpg) 0% 0% / cover;
-    background-position: bottom;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/travel/2019/feb/malacca/banner/malacca-bg.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .travel-langtengah-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/travel/2019/sep/lang-tengah/banner/langtengah-bg.jpg) 0% 0% / cover;
-    background-position: bottom;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/travel/2019/sep/lang-tengah/banner/langtengah-bg.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 
 /* Interior */
 .spc-ekocheras-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/spaces/2019/ekocheras/full/ekocheras-bg.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/spaces/2019/ekocheras/full/ekocheras-bg.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 /* Commercial */
 .cm-puma-training-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/commercial/2019/aug/puma-training/banner/puma-bg.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/commercial/2019/aug/puma-training/banner/puma-bg.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .cm-horizon-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/commercial/2018/march/horizon/banner/horizon-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/commercial/2018/march/horizon/banner/horizon-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .cm-hurom-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/commercial/2018/jun/hurom/banner/hurom_banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/commercial/2018/jun/hurom/banner/hurom_banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .cm-regenie-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/commercial/2019/feb/regenie/banner/regenie-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/commercial/2019/feb/regenie/banner/regenie-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .cm-rewild-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/commercial/2019/march/rewild/banner/rewild-banner.jpg) 0% 0% / cover;
-    background-position: top;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/commercial/2019/march/rewild/banner/rewild-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .cm-empro-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/commercial/2018/sep/empro/banner/empro-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/commercial/2018/sep/empro/banner/empro-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
