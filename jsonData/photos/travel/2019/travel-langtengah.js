@@ -31,7 +31,7 @@ var portfolio_photo = {
         "alt_pic": "Terengganu Lang Tengah 06"
     }, {
         "colSize": "col-12 col-md-4 px-4",
-        "fullsize_pic": "assets/images/photos/travel/2019/sep/lang-tengah/4x5/lg-07.png",
+        "fullsize_pic": "assets/images/photos/travel/2019/sep/lang-tengah/4x5/lg-07.jpg",
         "normal_pic": "assets/images/photos/travel/2019/sep/lang-tengah/4x5/lg-07.jpg",
         "alt_pic": "Terengganu Lang Tengah 07"
     }, {
@@ -43,7 +43,7 @@ var portfolio_photo = {
         "colSize": "col-12 col-md-4 px-4",
         "fullsize_pic": "assets/images/photos/travel/2019/sep/lang-tengah/4x5/lg-09.jpg",
         "normal_pic": "assets/images/photos/travel/2019/sep/lang-tengah/4x5/lg-09.jpg",
-        "alt_pic": "Terengganu Lang Tengah 9"
+        "alt_pic": "Terengganu Lang Tengah 09"
     }, {
         "colSize": "col-12 col-md-4 px-4",
         "fullsize_pic": "assets/images/photos/travel/2019/sep/lang-tengah/4x5/lg-10.jpg",
