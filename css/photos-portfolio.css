@@ -31,9 +31,11 @@
 
 /* Pre/Actual Wedding */
 .wed-jhaz-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/wedding/2018/aug/jaha-azweina/full/jhaz_bg.jpg) 0% 0% / cover;
-    /* background-position: center; */
-    /* background-attachment: fixed; */
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/wedding/2018/aug/jaha-azweina/full/jhaz_bg.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 
 }
@@ -153,51 +155,66 @@
 
 /* Portrait */
 .portrait-wendychew-banner.bg-parallax-main {
-    background: url(./../assets/images/photos/portrait/2018/oct/wendychew/banner/wendy-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/portrait/2018/oct/wendychew/banner/wendy-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .portrait-sokying-dress-banner.bg-parallax-main {
-    background: url(../assets/images/photos/portrait/2018/dec/sokying-dress/banner/sokying-dress-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
-    box-shadow: 0 3px 5px #393f484d;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(../assets/images/photos/portrait/2018/dec/sokying-dress/banner/sokying-dress-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .portrait-ivin-banner.bg-parallax-main {
-    background: url(../assets/images/photos/portrait/2019/june/ivin/banner/ivin-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(../assets/images/photos/portrait/2019/june/ivin/banner/ivin-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .portrait-unclechau-banner.bg-parallax-main {
-    background: url(../assets/images/photos/portrait/2018/jan/lcchau/banner/unclechau-banner.jpg) 0% 0% / cover;
-    background-position: top;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(../assets/images/photos/portrait/2018/jan/lcchau/banner/unclechau-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .portrait-fyona-ivin-banner.bg-parallax-main {
-    background: url(../assets/images/photos/portrait/2019/sep/ivin-fyona/banner/ivin-fyona-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(../assets/images/photos/portrait/2019/sep/ivin-fyona/banner/ivin-fyona-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .portrait-eiona-banner.bg-parallax-main {
-    background: url(../assets/images/photos/portrait/2019/june/eiona/banner/eiona-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(../assets/images/photos/portrait/2019/june/eiona/banner/eiona-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
 .portrait-viey-banner.bg-parallax-main {
-    background: url(../assets/images/photos/portrait/2019/march/viey/banner/view-banner.jpg) 0% 0% / cover;
-    background-position: center;
-    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(../assets/images/photos/portrait/2019/march/viey/banner/view-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
