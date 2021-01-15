@@ -1477,7 +1477,7 @@ a.button.dark:hover {
 }
 
 .portfolio-item img {
-    transition: all 3s;
+    transition: all 1.2s;
     width: 100%;
     /* width: auto; */
 }
