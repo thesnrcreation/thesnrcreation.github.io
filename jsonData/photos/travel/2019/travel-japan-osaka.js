@@ -164,5 +164,20 @@ var portfolio_photo = {
         "fullsize_pic": "assets/images/photos/travel/2019/sep/japan-osaka/4x5/osaka-33.jpg",
         "normal_pic": "assets/images/photos/travel/2019/sep/japan-osaka/4x5/osaka-33.jpg",
         "alt_pic": "Japan - Osaka 33"
+    }, {
+        "colSize": "col-12 col-md-4 px-4",
+        "fullsize_pic": "assets/images/photos/travel/2019/sep/japan-osaka/4x5/osaka-34.png",
+        "normal_pic": "assets/images/photos/travel/2019/sep/japan-osaka/4x5/osaka-34.png",
+        "alt_pic": "Japan - Osaka 34"
+    }, {
+        "colSize": "col-12 col-md-4 px-4",
+        "fullsize_pic": "assets/images/photos/travel/2019/sep/japan-osaka/4x5/osaka-35.png",
+        "normal_pic": "assets/images/photos/travel/2019/sep/japan-osaka/4x5/osaka-35.png",
+        "alt_pic": "Japan - Osaka 35"
+    }, {
+        "colSize": "col-12 col-md-4 px-4",
+        "fullsize_pic": "assets/images/photos/travel/2019/sep/japan-osaka/4x5/osaka-36.png",
+        "normal_pic": "assets/images/photos/travel/2019/sep/japan-osaka/4x5/osaka-36.png",
+        "alt_pic": "Japan - Osaka 36"
     }]
 }
