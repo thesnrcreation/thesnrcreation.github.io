@@ -5,12 +5,12 @@ var portfolio_video = {
         "thumbnail": "assets/images/photos/thumbnail/les-3.png",
         "desc": "Le Paradis' Wen ft. Joyce Koid"
     }, {
-        "ctg": "portrait",
+        "ctg": "brand",
         "video": "https://www.youtube.com/embed/iJAxUBs3qqw?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/ivin.jpg",
         "desc": "Portrait ft. Ivin | Personal Brand"
     }, {
-        "ctg": "commercial portrait",
+        "ctg": "commercial brand",
         "video": "https://www.youtube.com/embed/mbxZgXqf_oU?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/short-gateways.png",
         "desc": "THE SHORT GETAWAYS | Personal Brand"
@@ -30,7 +30,7 @@ var portfolio_video = {
         "thumbnail": "assets/images/photos/thumbnail/note20.png",
         "desc": "SAMSUNG Note 20 | KOL"
     }, {
-        "ctg": "commercial portrait",
+        "ctg": "commercial brand",
         "video": "https://www.youtube.com/embed/3iHYK2rm3DU?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/joicstan.jpg",
         "desc": "Joics Tan | Personal Brand"
