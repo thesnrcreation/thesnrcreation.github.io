@@ -1,5 +1,10 @@
 var portfolio_video = {
     "galleryObj": [{
+        "ctg": "music",
+        "video": "https://www.youtube.com/embed/F-QVf-FwVxQ?autoplay=1",
+        "thumbnail": "assets/images/photos/thumbnail/joycejennifer.jpg",
+        "desc": "飞鸟和蝉- 任然 Cover（JoyceKoid & Jennifer Yu)"
+    }, {
         "ctg": "commercial",
         "video": "https://www.youtube.com/embed/wZp3C4F-cx0?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/les-3.png",
@@ -8,14 +13,14 @@ var portfolio_video = {
         "ctg": "brand",
         "video": "https://www.youtube.com/embed/iJAxUBs3qqw?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/ivin.jpg",
-        "desc": "Portrait ft. Ivin | Personal Brand"
+        "desc": "Portrait ft. Ivin"
     }, {
         "ctg": "commercial brand",
         "video": "https://www.youtube.com/embed/mbxZgXqf_oU?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/short-gateways.png",
-        "desc": "THE SHORT GETAWAYS | Personal Brand"
+        "desc": "THE SHORT GETAWAYS"
     }, {
-        "ctg": "commercial",
+        "ctg": "commercial brand",
         "video": "https://www.youtube.com/embed/9oGpa8D57Bs?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/dna-mdrt.jpg",
         "desc": "Dream & Achieve | MDRT Group"
@@ -33,12 +38,12 @@ var portfolio_video = {
         "ctg": "commercial brand",
         "video": "https://www.youtube.com/embed/3iHYK2rm3DU?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/joicstan.jpg",
-        "desc": "Joics Tan | Personal Brand"
+        "desc": "Joics Tan"
     }, {
         "ctg": "commercial",
         "video": "https://www.youtube.com/embed/ptIWOEJNScw?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/starkela.png",
-        "desc": "Starkela | Commercial"
+        "desc": "Starkela"
     }, {
         "ctg": "commercial",
         "video": "https://www.youtube.com/embed/BciAx0g2qdo?autoplay=1",
@@ -48,12 +53,12 @@ var portfolio_video = {
         "ctg": "commercial",
         "video": "https://www.youtube.com/embed/LL_uWSrXKpI?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/spade.png",
-        "desc": "Spade Club | Modeling"
+        "desc": "Spade Club"
     }, {
         "ctg": "wedding",
         "video": "https://www.youtube.com/embed/fjzkm2l1g1s?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/jymt-thumbnail.jpg",
-        "desc": "Jin Yong & Mui Ting - Pre Wedding"
+        "desc": "Jin Yong & Mui Ting"
     }, {
         "ctg": "travel",
         "video": " https://www.youtube.com/embed/j6pa8iI1jiI?autoplay=1",
@@ -63,7 +68,7 @@ var portfolio_video = {
         "ctg": "interview",
         "video": " https://www.youtube.com/embed/64Oujxu4olI?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/nano-md.png",
-        "desc": "NANO MD | Interview"
+        "desc": "NANO MD"
     }, {
         "ctg": "interview",
         "video": "https://www.youtube.com/embed/nW7H7VjuB3g?autoplay=1",
@@ -78,7 +83,7 @@ var portfolio_video = {
         "ctg": "event",
         "video": "https://www.youtube.com/embed/FxD4NK33TE0?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/golf-finale.png",
-        "desc": "Golf finale | Carlsberg"
+        "desc": "Golf finale (Carlsberg)"
     }, {
         "ctg": "event",
         "video": "https://www.youtube.com/embed/1d-Jf11IfG8?autoplay=1",
@@ -93,7 +98,7 @@ var portfolio_video = {
         "ctg": "event",
         "video": "https://www.youtube.com/embed/fX_i1W5iIrA?autoplay=1",
         "thumbnail": "assets/images/photos/thumbnail/top-10.png",
-        "desc": "Top 10 charity | Carlsberg"
+        "desc": "Top 10 charity (Carlsberg)"
     }, {
         "ctg": "event",
         "video": "https://www.youtube.com/embed/moRkBOddtzE?autoplay=1",
