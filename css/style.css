@@ -2711,6 +2711,10 @@ a.button.dark:hover {
         line-height: 1.7
     }
 
+    h1{
+        font-size: 2rem;
+    }
+
     h1.heading {
         font-size: 28px;
         line-height: 38px;
