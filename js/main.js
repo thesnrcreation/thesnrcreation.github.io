@@ -16,7 +16,7 @@ function BodyFadeIn() {
 //  ----- Load Component  -------//
 
 // Load Header
-fetch("./assets/component/nav-header.html", ).then(
+fetch("../assets/component/nav-header.html", ).then(
     response => {
         return response.text()
     }).then(
@@ -31,7 +31,7 @@ fetch("./assets/component/nav-header.html", ).then(
 );
 
 // Load Side Menu
-fetch("./assets/component/side-menu.html").then(
+fetch("../assets/component/side-menu.html").then(
     response => {
         return response.text()
     }).then(
