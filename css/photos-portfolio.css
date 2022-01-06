@@ -188,6 +188,15 @@
     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
+.cm-beho-mooncake-banner.bg-parallax-main {
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+    background: url(./../assets/images/photos/commercial/2021/july/beho-mooncake/banner/mooncake-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+}
+
 /* Portrait */
 .portrait-wendychew-banner.bg-parallax-main {
     position: relative;
